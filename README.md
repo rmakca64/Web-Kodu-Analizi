@@ -1,4 +1,4 @@
-# Proje Bağımlılık Analiz Aracı
+<img width="1920" height="1140" alt="Ekran görüntüsü 2025-09-03 225417" src="https://github.com/user-attachments/assets/929b1d1c-d9f5-41fc-b3f4-3ebabca4c60b" /><img width="1920" height="985" alt="image" src="https://github.com/user-attachments/assets/d51e5bc8-f062-4ab2-ad80-fbee1f3d0274" /># Proje Bağımlılık Analiz Aracı
 
 [Türkçe](#türkçe) | [English](#english) | [中文](#中文) | [Русский](#русский)
 
@@ -10,7 +10,8 @@
 
 Bu uygulama, Python ve Tkinter kullanılarak geliştirilmiş, web proje klasörlerindeki (PHP, HTML, JS, CSS odaklı) kullanılmayan ("yetim") dosyaları tespit etmek ve proje bağımlılıklarını haritalamak için gelişmiş statik analiz yapan bir masaüstü aracıdır.
 
-![Uygulama Ekran Görüntüsü](screenshot.png)
+<a href="https://postimg.cc/VrVQMKxq" target="_blank"><img src="https://i.postimg.cc/VrVQMKxq/Ekran-g-r-nt-s-2025-09-03-225417.png" alt="Ekran-g-r-nt-s-2025-09-03-225417"/></a><br/><br/>
+<a href="https://postimg.cc/XXr0305Q" target="_blank"><img src="https://i.postimg.cc/XXr0305Q/Ekran-g-r-nt-s-2025-09-03-225438.png" alt="Ekran-g-r-nt-s-2025-09-03-225438"/></a><br/><br/>
 
 ### ✨ Ana Özellikler
 
